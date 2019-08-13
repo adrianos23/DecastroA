@@ -4,9 +4,10 @@
 </head>
 <body>
 	<h1><center>DeCastroA Photo Gallery</center></h1>
-	<center><img src="loga.jpg" width="200" height="175"></center>	
+	<center><img src="loga.jpg" width="200" height="175">
+	</center>	
 	<br>
-	<center><a href="home.html">Back to home</a>
+	<center><a href="home.php">Back to home</a>
 	<a href="image3.html">Next Photo</a></center>
 	</br>
 
