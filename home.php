@@ -9,8 +9,10 @@
 	<a href="image1.html">Photo 1</a>
 	<br>
 	<a href="image2.html">Photo 2</a>
+	</br>
 	<br>
 	<a href="image3.html">Photo 3</a>
+	</br>
 </center>
 </body>
 </html>
