@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Assignmet 05</title>
+<title>Exercise 03</title>
 </head>
 <body>
 <center><h1>DeCastroA Photo Gallery</h1>
@@ -13,6 +13,8 @@
 	<br>
 	<a href="image3.html">Photo 3</a>
 	</br>
+	<br/>
+	<a href="index.php">Logout</a>
 </center>
 </body>
 </html>
