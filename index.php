@@ -11,10 +11,10 @@
    			 <input type="password" placeholder="Enter Password" name="psw" required>
 		<br/>
 		<br/>
-		<a href="home.html"><button type="submit">Sign In</button></a>
+		<a href="home.php"><button type="submit">Sign In</button></a>
 		<br/>
 		<br/>
 		<br/>
-		<a href="register.html">Register</a>
+		<a href="register.php">Register</a>
 </html>
 </body>
